@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.ms.mscps</groupId>
+  <artifactId>sdk</artifactId>
+  <version>1.0.8</version>
+  <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.ms.mscps</groupId>
+      <artifactId>net</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.ms.mscps</groupId>
+      <artifactId>io</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+  </dependencies>
+</project>
