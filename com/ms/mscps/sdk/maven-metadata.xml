@@ -3,7 +3,7 @@
   <groupId>com.ms.mscps</groupId>
   <artifactId>sdk</artifactId>
   <versioning>
-    <release>1.0.9</release>
+    <release>1.1.0-alpha</release>
     <versions>
       <version>1.0.3</version>
       <version>1.0.4</version>
@@ -14,7 +14,8 @@
       <version>1.0.8</version>
       <version>1.0.9-alpha1</version>
       <version>1.0.9</version>
+      <version>1.1.0-alpha</version>
     </versions>
-    <lastUpdated>20180920072250</lastUpdated>
+    <lastUpdated>20181105113801</lastUpdated>
   </versioning>
 </metadata>
